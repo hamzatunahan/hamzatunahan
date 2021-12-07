@@ -4,6 +4,10 @@
 -------------------------------------------------------------------------
 - 🌱 I’m currently learning Linux
 -------------------------------------------------------------------------
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muzeyyenyildiz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## How to find me :
 - <a href="https://www.linkedin.com/in/hamza-tunahan-arslan-5494681a0/">
   <img align="left" alt="hamzatunahan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
