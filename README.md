@@ -2,7 +2,7 @@
 -------------------------------------------------------------------------
 A Software Engineering Student from Turkey
 -------------------------------------------------------------------------
-🌱 I’m currently learning Linux
+- 🌱 I’m currently learning Linux
 -------------------------------------------------------------------------
 ## How to find me :
 - <a href="https://www.linkedin.com/in/hamza-tunahan-arslan-5494681a0/">
