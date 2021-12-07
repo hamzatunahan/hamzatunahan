@@ -4,6 +4,19 @@ A Software Engineering Student from Turkey
 -------------------------------------------------------------------------
 🌱 I’m currently learning Linux
 -------------------------------------------------------------------------
+## How to find me :
+- <a href="https://www.linkedin.com/in/hamza-tunahan-arslan-5494681a0/">
+  <img align="left" alt="hamzatunahan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+   LinkedIn
+</a>
+
+
+
+<!--
+**hamzatunahan/hamzatunahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
 ## Quick overview
 * GitHub stats:  
 <p float="center">
@@ -12,16 +25,6 @@ A Software Engineering Student from Turkey
 </p>
 
 
-
-## How to find me :
-- <a href="https://www.linkedin.com/in/hamza-tunahan-arslan-5494681a0/">
-  <img align="left" alt="hamzatunahan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-   LinkedIn
-</a>
-<!--
-**hamzatunahan/hamzatunahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
