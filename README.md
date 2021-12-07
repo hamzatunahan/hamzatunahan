@@ -1,6 +1,7 @@
 ### Hi 👋, I'm Hamza
+-------------------------------------------------------------------------
 A Software Engineering Student from Turkey
-
+-------------------------------------------------------------------------
 🌱 I’m currently learning Linux
 <!--
 **hamzatunahan/hamzatunahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
