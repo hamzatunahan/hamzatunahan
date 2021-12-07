@@ -1,6 +1,6 @@
-### Hi 👋, I'm Hamza
+ Hi 👋, I'm Hamza
 -------------------------------------------------------------------------
-A Software Engineering Student from Turkey
+### A Software Engineering Student from Turkey
 -------------------------------------------------------------------------
 - 🌱 I’m currently learning Linux
 -------------------------------------------------------------------------
