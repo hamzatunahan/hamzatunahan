@@ -1,41 +1,8 @@
- Hi 👋, I'm Hamza
--------------------------------------------------------------------------
-### A Software Engineering Student from Turkey
--------------------------------------------------------------------------
-- 🌱 I’m currently learning .NET Core
--------------------------------------------------------------------------
+<h3 align="center">A passionate frontend developer from India</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzatunahan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## How to find me :
-- <a href="https://www.linkedin.com/in/hamza-tunahan-arslan-5494681a0/">
-  <img align="left" alt="hamzatunahan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-   LinkedIn
-</a>
-
-
-
-<!--
-**hamzatunahan/hamzatunahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-## Quick overview
-* GitHub stats:  
-<p float="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzatunahan&langs_count=5&theme=dark" alt="hamzatunahan's github stats" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=hamzatunahan&theme=dark&show_icons=true&count_private=true" alt="hamzatunahan's github stats" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://clojure.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg" alt="clojure" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> </p>
