@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning .NET Core & React
 -------------------------------------------------------------------------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzatunahan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+//[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzatunahan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## How to find me :
