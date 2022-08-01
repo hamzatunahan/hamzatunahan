@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 <h3 align="center">A Software Engineer from Turkey</h3>
 
-- 🌱 I’m currently learning **.NET Core & Java**
+- 🌱 I’m currently learning **Golang & .NET Core & Java**
 
 - 📫 How to reach me **hamzarslan34@gmail.com**
 
